@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Teodora Beatovic
 
-## About Me! ✨
-🧠 High-performing Computer Science & Math student at McGill University... in other words, a big nerd.
+## ✨ About Me! ✨
+🧠 High-performing Computer Science & Math student at McGill University... in other words, a big nerd.  
 💡 Passionate about building meaningful, efficient and robust systems at the intersection of **AI and healthcare**.
 
 ## 🔭 What I'm Up to
@@ -10,7 +10,7 @@
 
 ## 🚀 Key Projects
 ### 📚 [LaidOut — Smart Scheduler for Students](https://github.com/teobeatovic)  
-A full-stack productivity app to help students with ADHD create their own visual study schedules. Still in-progress and private (for now).  
+A full-stack productivity app to help students with ADHD create their own visual study schedules. In-progress and private (for now).  
 **ReactJS | Spring Boot | PostgreSQL**
 
 ### 🧠 [Psycholinguistic Data Modeling](https://github.com/teobeatovic/lasso-logistic-randomforest)  
@@ -23,7 +23,7 @@ Dimensionality reduction on high-dimensional genomic datasets using R.
 
 ## 🔧 Tech Stack
 **Languages:** Python, Java, SQL, JavaScript, Bash, R, C, OCaml  
-**Libraries/Frameworks:** ReactJS, Spring Boot, PyTorch, scikit-learn, pandas, NumPy 
+**Libraries/Frameworks:** ReactJS, Spring Boot, PyTorch, scikit-learn, pandas, NumPy  
 **Tools:** Git, Docker, Airflow, Jenkins, Tableau, Power Automate, Maven
 
 ## 🗣 Leadership
