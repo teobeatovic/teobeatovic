@@ -5,7 +5,7 @@
 💡 Passionate about building meaningful, efficient and robust systems at the intersection of **AI and healthcare**.
 
 ## 🔭 What I'm Up to
-- 🌱 Exploring the intersection of Machine Learning with AI, using libraries like scikit-learn.
+- 🌱 Exploring the intersection of Machine Learning with genomics, using libraries like scikit-learn.
 - 💻 Building Spring Boot applications to support students with varying learning difficulties.
 
 ## 🚀 Key Projects
