@@ -1,7 +1,8 @@
 ## Hi 👋 I'm Teodora Beatovic
 
 ## ✨ About Me! ✨
-🧠 Computer Science & Math graduate from McGill University. Currently working as a full-time software developer at Tecsys Inc., with my work mainly focused on developing full-stack SaaS applications.
+🧠 Computer Science & Math graduate from McGill University.
+💻 Currently working as a full-time software developer at Tecsys Inc., with my work mainly focused on developing full-stack SaaS applications.
 💡 Passionate about building meaningful, efficient and robust systems at the intersection of **AI and healthcare**.
 
 ## 🔭 What I'm Up To
