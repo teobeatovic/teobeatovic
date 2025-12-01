@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Teodora Beatovic
 
 ## ✨ About Me! ✨
-🧠 High-performing Computer Science & Math student at McGill University... in other words, a big nerd.  
+🧠 Computer Science & Math graduate from McGill University. Currently working as a full-time software developer at Tecsys Inc., with my work mainly focused on developing full-stack SaaS applications.
 💡 Passionate about building meaningful, efficient and robust systems at the intersection of **AI and healthcare**.
 
 ## 🔭 What I'm Up to
@@ -10,7 +10,7 @@
 
 ## 🚀 Key Projects
 ### 📚 [LaidOut — Smart Scheduler for Students](https://github.com/teobeatovic)  
-A full-stack productivity app to help students with ADHD create their own visual study schedules. In-progress and private (for now).  
+A full-stack productivity app to help students with ADHD create their own visual study schedules. Current in-progress (private).  
 **ReactJS | Spring Boot | PostgreSQL**
 
 ### 🧠 [Psycholinguistic Data Modeling](https://github.com/teobeatovic/lasso-logistic-randomforest)  
