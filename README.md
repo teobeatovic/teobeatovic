@@ -12,11 +12,11 @@
 
 ## 🚀 Key Projects
 ### 🩺 [Clinical Trial Matching Agent](https://github.com/teobeatovic/trial-matcher)
-An agentic system that matches synthetic patients to recruiting oncology trials. It parses free-text eligibility criteria into structured constraints with Cohere LLMs. Uses only synthetic (Synthea/FHIR) and public (ClinicalTrials.gov) data. In progress.
+An agentic system that matches synthetic patients to recruiting oncology trials. In progress.
 **Python | Cohere | PostgreSQL | pgvector | Docker**
 
 ### 📚 [LaidOut — Smart Scheduler for Students](https://github.com/teobeatovic)  
-A full-stack productivity app to help students with ADHD create their own visual study schedules. Current in-progress (private).  
+A full-stack productivity app to help students with ADHD create their own visual study schedules. Currently in-progress (private).  
 **ReactJS | Spring Boot | PostgreSQL**
 
 ### 🧠 [Psycholinguistic Data Modeling](https://github.com/teobeatovic/lasso-logistic-randomforest)  
