@@ -12,7 +12,7 @@
 
 ## 🚀 Key Projects
 ### 🩺 [Clinical Trial Matching Agent](https://github.com/teobeatovic/trial-matcher)
-An agentic system that matches synthetic patients to recruiting oncology trials. In progress.
+An agentic system that matches synthetic patients to recruiting oncology trials. In progress.  
 **Python | Cohere | PostgreSQL | pgvector | Docker**
 
 ### 📚 [LaidOut — Smart Scheduler for Students](https://github.com/teobeatovic)  
@@ -20,7 +20,7 @@ A full-stack productivity app to help students with ADHD create their own visual
 **ReactJS | Spring Boot | PostgreSQL**
 
 ### 🧠 [Psycholinguistic Data Modeling](https://github.com/teobeatovic/lasso-logistic-randomforest)  
-Regression and classification models (Lasso, Logistic, Random Forest) applied to psycholinguistic data.  
+Regression and classification models (Lasso, Logistic, Random Forest) applied to psycholinguistic data. 
 **Python | pandas | NumPy | scikit-learn | seaborn**
 
 ### 🧬 [PCA on Genomic Data](https://github.com/teobeatovic/pca-genomic-application)  
