@@ -6,10 +6,15 @@
 - 💡 Passionate about building meaningful, efficient and robust systems at the intersection of **AI and healthcare**.
 
 ## 🔭 What I'm Up To
+- 🩺 Building an LLM-powered clinical trial matching agent.
 - 🌱 Exploring the intersection of Machine Learning with genomics, using libraries like scikit-learn.
 - 💻 Building Spring Boot applications to support students with varying learning difficulties.
 
 ## 🚀 Key Projects
+### 🩺 [Clinical Trial Matching Agent](https://github.com/teobeatovic/trial-matcher)
+An agentic system that matches synthetic patients to recruiting oncology trials. It parses free-text eligibility criteria into structured constraints with Cohere LLMs. Uses only synthetic (Synthea/FHIR) and public (ClinicalTrials.gov) data. In progress.
+**Python | Cohere | PostgreSQL | pgvector | Docker**
+
 ### 📚 [LaidOut — Smart Scheduler for Students](https://github.com/teobeatovic)  
 A full-stack productivity app to help students with ADHD create their own visual study schedules. Current in-progress (private).  
 **ReactJS | Spring Boot | PostgreSQL**
